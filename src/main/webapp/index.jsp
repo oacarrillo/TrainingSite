@@ -44,7 +44,7 @@
             <div id="logoSura"></div>
             <div id="wrappertop"></div>
             <div id="wrappermiddle">                
-                <h2>Q-Matic Training</h2>                
+                <h2>Q-Matic Training hola</h2>                
                 <form method="post" action="GestionSesiones" name="loginForm" >
                     <div id="username_input">
                         <div id="username_inputleft"></div>
