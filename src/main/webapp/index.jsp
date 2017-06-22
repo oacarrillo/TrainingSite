@@ -80,7 +80,7 @@
                 <div id="links_left">
                     <a href="#">Olvidaste tu Contraseña?</a>
                 </div>
-                <div id="links_right"><a href="#">Aún no estas Registrado?</a></div>
+                <div id="links_right"><a href="#">tu Aún no estas Registrado?</a></div>
             </div>
             <div id="wrapperbottom"></div>		
             <div id="powered">
